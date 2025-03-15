@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Produto {
-    // Atributos sem private
     String nome;
     double preco;
     int quantidadeEmEstoque;
